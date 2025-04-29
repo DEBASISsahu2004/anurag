@@ -143,7 +143,7 @@ const Home = () => {
 
         <Tile
           title="About"
-          content="As a software tester, I am passionate about ensuring the quality and reliability of applications. With a strong foundation in both manual and automated testing, I thrive on identifying issues early and helping deliver seamless user experiences. My goal is to build confidence in products by maintaining high standards of performance, functionality, and usability. I am always eager to learn and adapt to new challenges in the ever-evolving tech landscape."
+          content="As a UI/UX designer and software tester, I am passionate about creating intuitive user experiences while ensuring the quality and reliability of applications. With a strong foundation in both design principles and testing methodologies, I thrive on building user-centric solutions that are not only visually appealing but also function seamlessly. My goal is to enhance user satisfaction and product performance by combining creativity with attention to detail. I am always eager to learn, grow, and take on new challenges in the ever-evolving tech landscape."
           className={styles.about}
           anim="fade-down"
         />
