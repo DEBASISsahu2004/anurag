@@ -239,7 +239,7 @@ const Home = () => {
         >
           <h1 className={styles.name}>Anurag</h1>
           <h1 className={styles.name}>Gautam</h1>
-          <h1 className={styles.job}>Software Tester</h1>
+          <h1 className={styles.job}>Software Tester and Ui/Ux designer</h1>
           <a href="mailto:anuraggautam7425@gmail.com" className={styles.mail}>
             anuraggautam7425@gmail.com
           </a>
