@@ -159,7 +159,8 @@ const Home = () => {
               <p>HTML</p>
               <p>CSS</p>
               <p>JavaScript</p>
-              <p>Debugging</p>
+              <p>Api Testing</p>
+              <p>Unit Testing</p>
             </div>
             <div>
               <p>Figma</p>
